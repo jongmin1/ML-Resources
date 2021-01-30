@@ -13,5 +13,7 @@ https://swalloow.github.io/bagging-boosting/
 * Survival
 - Cox-ph
 http://www.sthda.com/english/wiki/cox-proportional-hazards-model
+
+- Partial likelihood
 "Sir David Cox observed that if the proportional hazards assumption holds (or, is assumed to hold) then it is possible to estimate the effect parameter(s) 
  without any consideration of the hazard function. This approach to survival data is called application of the Cox proportional hazards model"_Wiki
