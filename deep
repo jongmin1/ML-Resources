@@ -1,5 +1,43 @@
-- AI, ML, and Deep
+- Intro for AI
 https://brunch.co.kr/@gdhan/10
+https://untitledtblog.tistory.com/154
+
+- Deep
+https://gomguard.tistory.com/178
+
+- Softmax
+https://wikidocs.net/35476
+https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/softmax?hl=ko
 
 - Back propagation
 https://www.youtube.com/watch?v=1Q_etC_GHHk&ab_channel=%ED%85%8C%EB%94%94%EB%85%B8%ED%8A%B8
+http://jaejunyoo.blogspot.com/2017/01/backpropagation.html
+
+- Dropout
+https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/
+
+- Weight constraints
+https://machinelearningmastery.com/introduction-to-weight-constraints-to-reduce-generalization-error-in-deep-learning/
+
+- AutoEncoder
+https://blog.naver.com/laonple/220891144201
+https://wikidocs.net/3413
+
+- t-sne
+https://lovit.github.io/nlp/representation/2018/09/28/tsne/
+
+
+- CNN
+https://halfundecided.medium.com/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-cnn-convolutional-neural-networks-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-836869f88375
+https://www.youtube.com/watch?v=RLlI9q6Uojk&ab_channel=MinsukHeo%ED%97%88%EB%AF%BC%EC%84%9D
+(용어) http://taewan.kim/post/cnn/
+
+- RNN
+https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/
+
+- MTL
+http://yunshengb.com/wp-content/uploads/2017/11/Multi-Task-Machine-Learning.pdf
+https://vanche.github.io/MTL/
+
+- Difference
+https://ebbnflow.tistory.com/119
