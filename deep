@@ -21,7 +21,7 @@ https://machinelearningmastery.com/introduction-to-weight-constraints-to-reduce-
 
 - vanishing / exploding gradient + activation + initialization
 https://excelsior-cjh.tistory.com/177?category=940400
-(+initialization) https://wikidocs.net/61375
+[+initialization] https://wikidocs.net/61375
 
 - BN + clipping
 https://excelsior-cjh.tistory.com/178 
@@ -31,7 +31,7 @@ https://excelsior-cjh.tistory.com/178 -> 학습률(learning rate)를 크게 잡�
 [논문 정리] https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/ -> learning rate 이유 설명
 [논문 정리] https://hcnoh.github.io/2018-11-27-batch-normalization 
 [다시 기존 내용에 대한 tackle] https://blog.paperspace.com/busting-the-myths-about-batch-normalization/
--> activationn 결과 mini-batch 이용해 고른 분포를 위한
+-> activationn 결과 mini-batch 이용해 고른 분포
 
 - Weight standardization
 https://blog.lunit.io/2019/05/28/weight-standardization/
@@ -40,6 +40,8 @@ https://blog.lunit.io/2019/05/28/weight-standardization/
 [source가서 보기] https://kimcando94.tistory.com/38
 https://wingnim.tistory.com/92
 
+- Disharmony between Dropout and Batch Norm
+https://arxiv.org/abs/1801.05134
 
 - AutoEncoder
 https://blog.naver.com/laonple/220891144201
@@ -66,3 +68,4 @@ https://ebbnflow.tistory.com/119
 
 *Tips
 http://karpathy.github.io/2019/04/25/recipe/
+[To do] https://towardsdatascience.com/designing-your-neural-networks-a5e4617027ed
