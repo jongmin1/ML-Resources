@@ -16,10 +16,6 @@ http://jaejunyoo.blogspot.com/2017/01/backpropagation.html
 - Dropout
 https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/
 
-- Batch norm
-https://excelsior-cjh.tistory.com/178 
-https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/
-
 - Weight constraints
 https://machinelearningmastery.com/introduction-to-weight-constraints-to-reduce-generalization-error-in-deep-learning/
 
@@ -28,6 +24,8 @@ https://excelsior-cjh.tistory.com/177?category=940400
 (+initialization) https://wikidocs.net/61375
 
 - BN + clipping
+https://excelsior-cjh.tistory.com/178 
+https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/
 https://excelsior-cjh.tistory.com/178 -> 학습률(learning rate)를 크게 잡아도 gradient descent가 잘 수렴한다. (실험에 의한 정보인가?)
 [서두 정리 굿] https://de-novo.org/2018/05/28/batch-normalization-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/
 [논문 정리] https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/ -> learning rate 이유 설명
@@ -65,3 +63,6 @@ https://vanche.github.io/MTL/
 
 - Difference
 https://ebbnflow.tistory.com/119
+
+*Tips
+http://karpathy.github.io/2019/04/25/recipe/
