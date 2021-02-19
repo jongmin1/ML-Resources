@@ -36,9 +36,10 @@ https://excelsior-cjh.tistory.com/178 -> 학습률(learning rate)를 크게 잡�
 - Weight standardization
 https://blog.lunit.io/2019/05/28/weight-standardization/
 
-- Norm 관련 정리
+- Norm 관련 용어 정리
 [source가서 보기] https://kimcando94.tistory.com/38
 https://wingnim.tistory.com/92
+https://becominghuman.ai/all-about-normalization-6ea79e70894b
 
 - Disharmony between Dropout and Batch Norm
 https://arxiv.org/abs/1801.05134
