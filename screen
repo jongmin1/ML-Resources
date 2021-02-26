@@ -1,0 +1,45 @@
+# screen 생성
+$ screen -S [이름]
+
+# screen 목록 확인하기
+$ screen -ls
+
+# screen 다시 들어가기
+$ screen -r [이름]
+
+# 키보드 사용방법 확인하기
+ctrl+a ?
+
+# screen에서 빠져나가기(종료되지 않음)
+ctrl+a d
+
+# screen 종료하면서 빠져나가기
+ctrl+a k
+
+# 세로로 화면 분할
+ctrl+a |
+
+# 가로로 화면 분할
+ctrl+a S
+
+# 분할된 화면 으로 넘어가기
+ctrl+a Tab
+
+# 새 세션 열기
+ctrl+a c
+
+# 스크롤 하기(아래 명령어 후 방향키 입력)
+ctrl+a esc
+
+# screen 종료하면서 빠져나가기
+$ exit
+
+# screen session kill
+screen -X -S SCREENID quit
+screen -S SCREENID -X quit
+
+# log 출력
+screen -L
+
+# Lock (screen session안에서)
+CTRL-a x 
