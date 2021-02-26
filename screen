@@ -1,11 +1,11 @@
 # screen 생성
-$ screen -S [이름]
+screen -S [이름]
 
 # screen 목록 확인하기
-$ screen -ls
+screen -ls
 
 # screen 다시 들어가기
-$ screen -r [이름]
+screen -r [이름]
 
 # 키보드 사용방법 확인하기
 ctrl+a ?
@@ -32,7 +32,7 @@ ctrl+a c
 ctrl+a esc
 
 # screen 종료하면서 빠져나가기
-$ exit
+exit
 
 # screen session kill
 screen -X -S SCREENID quit
