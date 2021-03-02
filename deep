@@ -15,13 +15,39 @@ http://jaejunyoo.blogspot.com/2017/01/backpropagation.html
 
 - Dropout
 https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/
-
-- Batch norm
-https://excelsior-cjh.tistory.com/178 
-https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/
+https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/ 
+https://machinelearningmastery.com/how-to-reduce-overfitting-in-deep-learning-with-weight-regularization/
 
 - Weight constraints
 https://machinelearningmastery.com/introduction-to-weight-constraints-to-reduce-generalization-error-in-deep-learning/
+
+- vanishing / exploding gradient + activation + initialization
+https://excelsior-cjh.tistory.com/177?category=940400
+[+initialization] https://wikidocs.net/61375
+
+- Batch size
+(논문요약) https://blog.lunit.io/2018/08/03/batch-size-in-deep-learning/
+
+- BN + clipping
+https://excelsior-cjh.tistory.com/178 
+https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/
+https://excelsior-cjh.tistory.com/178 -> 학습률(learning rate)를 크게 잡아도 gradient descent가 잘 수렴한다. (실험에 의한 정보인가?)
+[서두 정리 굿] https://de-novo.org/2018/05/28/batch-normalization-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/
+[논문 정리] https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/ -> learning rate 이유 설명
+[논문 정리] https://hcnoh.github.io/2018-11-27-batch-normalization 
+[다시 기존 내용에 대한 tackle] https://blog.paperspace.com/busting-the-myths-about-batch-normalization/
+-> activationn 결과 mini-batch 이용해 고른 분포
+
+- Weight standardization
+https://blog.lunit.io/2019/05/28/weight-standardization/
+
+- Norm 관련 용어 정리
+[source가서 보기] https://kimcando94.tistory.com/38
+https://wingnim.tistory.com/92
+https://becominghuman.ai/all-about-normalization-6ea79e70894b
+
+- Disharmony between Dropout and Batch Norm
+https://arxiv.org/abs/1801.05134
 
 - AutoEncoder
 https://blog.naver.com/laonple/220891144201
@@ -34,10 +60,14 @@ https://lovit.github.io/nlp/representation/2018/09/28/tsne/
 - CNN
 https://halfundecided.medium.com/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-cnn-convolutional-neural-networks-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-836869f88375
 https://www.youtube.com/watch?v=RLlI9q6Uojk&ab_channel=MinsukHeo%ED%97%88%EB%AF%BC%EC%84%9D
-(용어) http://taewan.kim/post/cnn/
+[용어] http://taewan.kim/post/cnn/
 
 - RNN
 https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/
+
+- LSTM
+https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr
+https://m.blog.naver.com/PostView.nhn?blogId=magnking&logNo=221311273459&proxyReferer=https:%2F%2Fwww.google.com%2F
 
 - MTL
 http://yunshengb.com/wp-content/uploads/2017/11/Multi-Task-Machine-Learning.pdf
@@ -45,3 +75,7 @@ https://vanche.github.io/MTL/
 
 - Difference
 https://ebbnflow.tistory.com/119
+
+*Tips
+http://karpathy.github.io/2019/04/25/recipe/
+[To do] https://towardsdatascience.com/designing-your-neural-networks-a5e4617027ed
