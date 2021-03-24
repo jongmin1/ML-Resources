@@ -13,3 +13,6 @@ https://square.github.io/pysurvival/metrics/c_index.html
 
 - Grid search
 - Beam search
+
+- Class weight
+https://www.analyticsvidhya.com/blog/2020/10/improve-class-imbalance-class-weights/
