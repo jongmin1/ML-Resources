@@ -39,6 +39,9 @@ https://excelsior-cjh.tistory.com/178 -> 학습률(learning rate)를 크게 잡�
 [다시 기존 내용에 대한 tackle] https://blog.paperspace.com/busting-the-myths-about-batch-normalization/
 -> activationn 결과 mini-batch 이용해 고른 분포
 
+- Layer norm
+[그림] https://yonghyuc.wordpress.com/2020/03/04/batch-norm-vs-layer-norm/
+
 - Weight standardization
 https://blog.lunit.io/2019/05/28/weight-standardization/
 
