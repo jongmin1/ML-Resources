@@ -31,6 +31,7 @@ https://excelsior-cjh.tistory.com/177?category=940400
 - BN + clipping
 https://excelsior-cjh.tistory.com/178 
 https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/
+[슥하고 읽기 좋음] http://sanghyukchun.github.io/88/
 https://excelsior-cjh.tistory.com/178 -> 학습률(learning rate)를 크게 잡아도 gradient descent가 잘 수렴한다. (실험에 의한 정보인가?)
 [서두 정리 굿] https://de-novo.org/2018/05/28/batch-normalization-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/
 [논문 정리] https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/ -> learning rate 이유 설명
@@ -76,6 +77,11 @@ https://vanche.github.io/MTL/
 - Difference
 https://ebbnflow.tistory.com/119
 
+- Mixture Density Network
+https://kangbk0120.github.io/articles/2018-05/MDN
+
 *Tips
 http://karpathy.github.io/2019/04/25/recipe/
 [To do] https://towardsdatascience.com/designing-your-neural-networks-a5e4617027ed
+https://hackernoon.com/how-to-debug-neural-networks-manual-dc2a200f10f2
+https://towardsdatascience.com/designing-your-neural-networks-a5e4617027ed

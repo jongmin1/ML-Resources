@@ -13,3 +13,11 @@ https://square.github.io/pysurvival/metrics/c_index.html
 
 - Grid search
 - Beam search
+
+for auc
+
+- Class weight
+https://www.analyticsvidhya.com/blog/2020/10/improve-class-imbalance-class-weights/
+
+- 가볍게 읽기
+https://www.quora.com/How-can-I-improve-Precision-Recall-AUC-under-Imbalanced-Classification
